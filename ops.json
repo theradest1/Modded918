@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "4eed8ac6-e910-4e5b-959d-88ecaebca651",
+    "name": "09cheesesteak",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "bf7d4a28-3dc2-496b-9472-9f23f15f6dff",
+    "name": "Wthdraw",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e22a83e5-205b-49c9-b900-cc2e01d0e6df",
+    "name": "ShadowStar18",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
